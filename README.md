@@ -4,6 +4,7 @@ GIS Portfolio for Lucy Wagner - Undergraduate Student at the University of St An
 # Project Example 1: Mapping Malaria Risk Around Lake Tana
 
 Colab Notebook: https://colab.research.google.com/drive/1H-II9G0JsvZPSl-2-qUX_emLtHjPNE9J#scrollTo=YQnLO-EH8Wms
+
 PDF Version: [230002756_MalariaRisk_FinalPDF.pdf](https://github.com/user-attachments/files/24314802/230002756_MalariaRisk_FinalPDF.pdf)
 
 This repository contains the link to code my spatial Multi-Criteria Evaluation (MCE) of malaria risk around Lake Tana, Ethiopia. The project combines environmental suitability and population exposure to illustrate high-risk zones for malaria prevention measures.
