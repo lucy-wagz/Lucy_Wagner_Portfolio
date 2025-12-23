@@ -3,6 +3,8 @@ GIS Portfolio for Lucy Wagner - Undergraduate Student at the University of St An
 
 ## Project Example 1: Mapping Malaria Risk Around Lake Tana
 
+Grade: 20/20 by UK Grading Standards
+
 Colab Notebook: https://colab.research.google.com/drive/1H-II9G0JsvZPSl-2-qUX_emLtHjPNE9J#scrollTo=YQnLO-EH8Wms
 
 PDF Version: [230002756_MalariaRisk_FinalPDF.pdf](https://github.com/user-attachments/files/24314802/230002756_MalariaRisk_FinalPDF.pdf)
@@ -23,3 +25,26 @@ How do environmental suitability patterns and population exposure interact to sh
 - Population exposure derived from a normalised WorldPop raster.
 - Risk Index computed as: **Risk = Environmental Suitability × Exposure**.
 - Spatial processing in **QGIS**; validation and plotting in **Python** using `rasterio`, `numpy`, `matplotlib`, and `seaborn`.
+
+## Project Example 2: Multi-Criteria Evaluation of Conflict Zones for Carpet Washing Industries' Suitability around Kathmandu, Nepal
+
+PDF Version:[MCE_Kathmandu_Lucy_Wagner.pdf](https://github.com/user-attachments/files/24314868/MCE_Kathmandu_Lucy_Wagner.pdf)
+
+This section of the repository contains the link to view my introduction to the Multi-Criteria Evaluation Process where I combined a Carpet Washing Facility Suitability map with an Agricultural Suitability map to identify conflict zones for the facilities arounf Kathmandu. I explored how various factors and constraints impact the suitability for these facilities to properly operate. 
+
+## Methods Overview
+
+- Carpet Suitability
+  - Used Roads (HDX) shapefile to create a Powerlines raster (assuming that all main powerlines are near major road systems)
+  - Used Roads, Rivers (HDX), and Powerlines shapefiles to create distance raster
+  - Land Cover Constraints (Copernicus) to exclude unsuitable land types
+  - Slope (SRTM DEM) to mask unsuitable elevation
+
+- Agricultural Suitability
+  - Used DEM converted to slope and changed weight of water factor to create suitability index for agriculture
+ 
+- Conflict Zones Final
+  - "identify conflicting areas that are 90% or more suitable for carpet industry and at the same time 90% or more suitable for agriculture"
+  - Used raster calculator to mask 0.9 or more of each suitability map to produce one conflict zone output
+
+ 
