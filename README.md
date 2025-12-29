@@ -47,4 +47,8 @@ This section of the repository contains the link to view my introduction to the 
   - "identify conflicting areas that are 90% or more suitable for carpet industry and at the same time 90% or more suitable for agriculture"
   - Used raster calculator to mask 0.9 or more of each suitability map to produce one conflict zone output
 
- 
+ ## Project Example 3: Python for Spatial Analysis 
+
+ Geopandas and Rasterio PDF: https://drive.google.com/drive/folders/1vO0w3crNWhTVKaq7gLLun7qP_fbXOXzG?dmr=1&ec=wgc-drive-hero-goto 
+
+ K-Means and DBSCAN PDF: https://drive.google.com/drive/folders/1vO0w3crNWhTVKaq7gLLun7qP_fbXOXzG?dmr=1&ec=wgc-drive-hero-goto
