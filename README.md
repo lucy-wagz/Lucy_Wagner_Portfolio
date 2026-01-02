@@ -49,6 +49,16 @@ This section of the repository contains the link to view my introduction to the 
 
  ## Project Example 3: Python for Spatial Analysis 
 
+ This section of the repository contains the links to view my Python processes where I evaluated various Spatial Analysis problems and queries. 
+
  Geopandas and Rasterio PDF: https://drive.google.com/drive/folders/1vO0w3crNWhTVKaq7gLLun7qP_fbXOXzG?dmr=1&ec=wgc-drive-hero-goto 
 
  K-Means and DBSCAN PDF: https://drive.google.com/drive/folders/1vO0w3crNWhTVKaq7gLLun7qP_fbXOXzG?dmr=1&ec=wgc-drive-hero-goto
+
+ ## Project Example 4: Palau Water Crisis after Tropical Cyclone Rai
+
+This section of the repository contains the folder for a Humanitarian Disaster Response project in which I used Excel, ArcGIS Pro, and varying information/file databases to construct a semi-fictional assessment of a water crisis in Palau after Tropical Cyclone Rai.
+
+IMPORTANT: Some of the data utilized in this lab was fictional for classwork purposes and does not necessarily reflect true facts and figures of disaster/damage records from Cyclone Rai's duration or response period. Please note this if assessing against existing literature on Palau during this emergency.
+ 
+ Link to zip file containing all deliverables calculated and produced within the project: https://drive.google.com/file/d/1aSK23kzpr2sIYKg5B69WVx7bF4y4RCv-/view?usp=drive_link
