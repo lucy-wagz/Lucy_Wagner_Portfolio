@@ -66,7 +66,7 @@ IMPORTANT: Some of the data utilized in this lab was fictional for classwork pur
 
 ## Project Example 5: Introduction to Geospatial Analysis 
 
-This section of the repository contains a zip file to view my introduction to georpatial analysis using data from Scotland. 
+This section of the repository contains a zip file to view my introduction to geospatial analysis using data from Scotland. This part of the repository was submitted as an assignment in my second year of univsersity schooling.
 
 [SD2100_Geospatial_Analysis_ASSIGNMENT.docx.zip](https://github.com/user-attachments/files/24416272/SD2100_Geospatial_Analysis_ASSIGNMENT.docx.zip)
 
