@@ -62,3 +62,11 @@ This section of the repository contains the folder for a Humanitarian Disaster R
 IMPORTANT: Some of the data utilized in this lab was fictional for classwork purposes and does not necessarily reflect true facts and figures of disaster/damage records from Cyclone Rai's duration or response period. Please note this if assessing against existing literature on Palau during this emergency.
  
  Link to zip file containing all deliverables calculated and produced within the project: https://drive.google.com/file/d/1aSK23kzpr2sIYKg5B69WVx7bF4y4RCv-/view?usp=drive_link
+
+
+## Project Example 5: Introduction to Geospatial Analysis 
+
+This section of the repository contains a zip file to view my introduction to georpatial analysis using data from Scotland. 
+
+[SD2100_Geospatial_Analysis_ASSIGNMENT.docx.zip](https://github.com/user-attachments/files/24416272/SD2100_Geospatial_Analysis_ASSIGNMENT.docx.zip)
+
